@@ -1,4 +1,4 @@
-# DSA
+
 ✨ Star this repo if you’re also on the DSA grind!
 # 🚀 DSA with Java   
 
@@ -13,20 +13,22 @@
 
 ## 🗂️ Repository Structure
 
-📦 DSA-Java
-┣ 📂 Arrays
-┣ 📂 Strings
-┣ 📂 LinkedList
-┣ 📂 Stacks
-┣ 📂 Queues
-┣ 📂 Trees
-┣ 📂 Graphs
-┣ 📂 DynamicProgramming
-┣ 📂 SearchingSorting
-┣ 📂 Backtracking
-┗ 📜 README.md
+```text
+-📦 DSA-Java
+-┣ 📂 Arrays
+-┣ 📂 Strings
+-┣ 📂 LinkedList
+-┣ 📂 Stacks
+-┣ 📂 Queues
+-┣ 📂 Trees
+-┣ 📂 Graphs
+-┣ 📂 DynamicProgramming
+-┣ 📂 SearchingSorting
+-┣ 📂 Backtracking
+-┗ 📜 README.md
 
-
+---
+```
 Each folder contains:
 - `ProblemName.java`
 - `README.md` with explanation, time/space complexity.
@@ -65,7 +67,7 @@ Each folder contains:
 ## 🎯 Goals
 - Build **problem-solving skills** step by step  
 - Maintain **consistency** with daily problems
-- 
+  
 
 ## 🤝 Contributing
 Want to suggest problems or improvements? PRs are welcome!  
